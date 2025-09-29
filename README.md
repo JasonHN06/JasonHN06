@@ -2,6 +2,8 @@
 
 Desarrollador web jr | Tecnico en Informatica
 
+![Jason Madrid Banner](JAMDev_Banner.png)
+
 ## Sobre mí
 
 Soy un desarrollador apasionado por crear soluciones web accesibles e innovadoras. Me gusta aprender nuevas tecnologías cada día. Mi trabajo se basa en ofrecer una buena experiencia de usuario, y ofrecer una modularidad visual fluida. Me gusta crear interfaces accesibles y escalables con herramientas como:
