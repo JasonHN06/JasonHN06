@@ -6,7 +6,7 @@ Desarrollador web jr | Tecnico en Informatica
 
 Soy un desarrollador apasionado por crear soluciones web accesibles e innovadoras. Me gusta aprender nuevas tecnologías cada día. Mi trabajo se basa en ofrecer una buena experiencia de usuario, y ofrecer una modularidad visual fluida. Me gusta crear interfaces accesibles y escalables con herramientas como:
 
-### 🧰 Herramientas y Tecnologías
+## Herramientas y Tecnologías
 
 <p align="start">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" />
