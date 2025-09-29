@@ -2,7 +2,7 @@
 
 Desarrollador web jr | Tecnico en Informatica
 
-![Jason Madrid Banner](JAMDev_Banner.png)
+<img src="JAMDev_Banner.png" alt="Jason Madrid Banner" height="150" />
 
 ## Sobre mí
 
